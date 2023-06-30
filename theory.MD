@@ -11,9 +11,9 @@ Git is an example of a **verson control** system.
 ## Question 3
 
 There are 3 states in Git that files can be in. 
-1.**Modified**: When a file has been modified but not committed.
-2.**Staged**: When a modified file has been marked to be included in the next commit.
-3.**Committed**: When changes have been saved to the local repository.
+1. **Modified**: When a file has been modified but not committed.
+2. **Staged**: When a modified file has been marked to be included in the next commit.
+3. **Committed**: When changes have been saved to the local repository.
 
 ## Question 4
 
@@ -41,5 +41,5 @@ What is the git command that updates the remote repository with local repository
 
 The git commit command needs two things to work:
 
-1.**Changes**: You need to have made some changes to the files in your local repository.
-2.**Commit message**: You need to provide a meaningful commit message that describes the changes you made.
+1. **Changes**: You need to have made some changes to the files in your local repository.
+2. **Commit message**: You need to provide a meaningful commit message that describes the changes you made.
