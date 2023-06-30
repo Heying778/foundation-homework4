@@ -1,36 +1,45 @@
 # TASK 2 Theory Questions
 
-## **Question 1**
+## Question 1
 
-Fill in the blank: Git is an example of a ______ _________ system.
+Git is an example of a **verson control** system.
 
-## **Question 2**
+## Question 2
 
-Name a code hosting service that uses Git.
+**Github** is a hosting service that uses Git.
 
 ## Question 3
 
-There are 3 states in Git that files can be in. What are these states?
+There are 3 states in Git that files can be in. 
+**Modified**: When a file has been modified but not committed.
+**Staged**: When a modified file has been marked to be included in the next commit.
+**Committed**: When changes have been saved to the local repository.
 
 ## Question 4
 
-PR and repo are common abbreviations in the world of Git. What do they mean?
+PR stands for **Pull Request**, which is a way to propose changes to a code repository. Repo is short for **repository**, which is a storage location where files and version history are kept.
 
 ## Question 5
 
 What is the git command that updates the local repository with changes from the remote repository?
 
+`git pull`
+
 ## Question 6
 
 What is the git command that gets the changes from the remote repository but doesn’t update your local repository?
 
-## FOUNDATION
+`git fetch`
 
 ## Question 7
 
 What is the git command that updates the remote repository with local repository code?
 
+`git push`
+
 ## Question 8
 
-What does the git commit command need to work?
+The git commit command needs two things to work:
 
+**Changes**: You need to have made some changes to the files in your local repository.
+**Commit message**: You need to provide a meaningful commit message that describes the changes you made.
